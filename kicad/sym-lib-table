@@ -1,0 +1,3 @@
+(sym_lib_table
+ (lib (name "PocketGPU") (type "KiCad") (uri "${KIPRJMOD}/PocketGPU.kicad_sym") (options "") (descr "PocketGPU conceptual symbols"))
+)

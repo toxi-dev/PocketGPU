@@ -1,0 +1,9 @@
+assembly,marking,possible_function,confidence,status_or_next_check
+Donor motherboard,25Q32BVSIG,Winbond 4MiB SPI NOR flash,high,Recovered matching image twice
+GPU module,N12E-GE2-A1,NVIDIA GPU core marking,high,Exact PCI ID pending
+GPU module,MGM_N12E_2P Rev 2.1,Board silkscreen/revision,medium,Confirm with close-up photo
+GPU module,K4W2G1646C-HC11,Samsung 2Gbit DDR3 SDRAM,medium,Confirm all 8 packages
+GPU module,NCP3218,Multiphase voltage regulator controller,medium,Verify full marking and circuit
+GPU module,APL5930,Linear regulator,medium,Verify circuit and rail
+GPU module,P1203BV,N-channel MOSFET,medium,Verify full marking
+GPU module,B07 P03,P-channel MOSFET,medium,Verify full marking

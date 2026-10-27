@@ -1,0 +1,3 @@
+(fp_lib_table
+ (lib (name "PocketGPU") (type "KiCad") (uri "${KIPRJMOD}/PocketGPU.pretty") (options "") (descr "NON-FABRICABLE provisional mechanical placeholders"))
+)

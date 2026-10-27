@@ -1,0 +1,7 @@
+(footprint "PCIE_HOST_ENVELOPE_ONLY" (version 20240108) (generator "toxitech_pocketgpu")
+  (layer "F.Cu") (descr "UNVERIFIED MECHANICAL ENVELOPE ONLY; ZERO COPPER PADS; DO NOT FABRICATE")
+  (attr smd board_only exclude_from_pos_files exclude_from_bom)
+  (property "Reference" "J_HOST1" (at 0 -13 0) (layer "F.SilkS") (effects (font (size 1.000 1.000) (thickness 0.15))))
+  (property "Value" "HOST TBD" (at 0 14 0) (layer "F.Fab") (effects (font (size 0.800 0.800) (thickness 0.15))))
+  (fp_rect (start -20 -8) (end 20 8) (stroke (width 0.2) (type default)) (fill none) (layer "F.Fab") (uuid "b74c134f-eff0-45f5-b77e-449492af8644"))(fp_rect (start -22 -10) (end 22 10) (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (uuid "a1978492-8e6e-47f3-874a-ba6e0d2aa6fa"))(fp_text user "PCIe x4 planned (NOT PHYSICAL EDGE)" (at 0 -3) (layer "F.Fab") (effects (font (size 1.100 1.100) (thickness 0.15))) (uuid "d211fcae-0a21-46e5-8784-97cc8e1e3c91"))(fp_text user "NO COPPER / NO HOST PINOUT" (at 0 2) (layer "F.Fab") (effects (font (size 1.100 1.100) (thickness 0.15))) (uuid "54bc0492-b32b-4c43-b4cf-ef078aa42219"))
+ )
