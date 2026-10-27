@@ -1,0 +1,27 @@
+# Proprietary firmware and dumps
+*.bin
+*.rom
+*.fd
+*.cap
+
+# Reference material not cleared for redistribution
+*.pdf
+*.psd
+
+# Archives and backups
+*.zip
+*.7z
+*.rar
+*.bak
+
+# Local captures
+*.log
+
+# KiCad temporary and local files
+*-backups/
+*.kicad_prl
+*.lck
+
+# OS files
+.DS_Store
+Thumbs.db
