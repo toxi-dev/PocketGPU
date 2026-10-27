@@ -1,0 +1,8 @@
+reference_pads,observation,net_name,voltage_verified,notes
+"A01 B01 C01 D01","beep to middle capacitor +",POWER_NET_A,no,"user-reported unpowered test; mapping to connector contacts unverified"
+"A02 B02 C02 D02","beep to middle capacitor +",POWER_NET_A,no,"user-reported unpowered test; mapping to connector contacts unverified"
+"A03 B03 C03 D03","no beep to tested GND or POWER_NET_A",UNKNOWN,no,"does not prove signal function"
+"A04 B04 C04 D04","no beep to tested GND or POWER_NET_A",UNKNOWN,no,"does not prove signal function"
+"A05 B05 C05 D05","beep to ground",GND,no,"reported"
+"A06 B06 C06 D06","beep to ground",GND,no,"reported"
+"G01 G02 G03 G04 G05 G06 G07 G08","beep to ground",GND,no,"reported"
